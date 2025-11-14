@@ -1,0 +1,8 @@
+{
+  "name": "MithrixSkip",
+  "version_number": "1.0.0",
+  "description": "Spawns a free shrine outside the Commencement ship barrier to skip straight to fight Mithrix. Don't worry - its free!",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2101"
+  ]
+}

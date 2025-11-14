@@ -7,9 +7,8 @@ This mod spawns a free “shrine” **outside** near the Commencement ship barri
 - Server-only spawn (no client duplicates)
 - In-game chat messages on spawn and activation
 ![MithrixSkip](https://github.com/kdogbeast/MithrixSkip/blob/main/gif%20mithrix.gif)
-
-
 - Spawns close to the end of the slop, near the ship barrier
+![MithrixSkip](https://github.com/kdogbeast/MithrixSkip/blob/main/giff%20shrine.gif)
 - It's free!! 
 - Configurable offsets if you want to change it or something (weird)
 

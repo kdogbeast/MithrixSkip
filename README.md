@@ -4,7 +4,7 @@
 This mod spawns a free “shrine” **outside** near the Commencement ship barrier so you can start the Mithrix encounter immediately. Works in single-player and multiplayer.
 
 ## Features
-- Server-only spawn (no client duplicates)
+- Server-only spawn 
 - In-game chat messages on spawn and activation
 ![MithrixSkip](https://github.com/kdogbeast/MithrixSkip/blob/main/giff%20chat.gif)
 - Spawns close to the end of the slop, near the ship barrier

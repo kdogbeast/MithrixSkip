@@ -31,4 +31,3 @@ Key options:
 
 ## Credits
 - Enjoy the mod!
-- 

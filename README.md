@@ -10,7 +10,7 @@ This mod spawns a free “shrine” **outside** near the Commencement ship barri
 - Spawns close to the end of the slop, near the ship barrier
 ![MithrixSkip](https://github.com/kdogbeast/MithrixSkip/blob/main/giff%20shrine.gif)
 - It's free!! 
-- Configurable offsets if you want to change it or something (weird)
+- Configurable file if you want to change it or something (weird)
 
 ## Config (BepInEx)
 A config file is generated at `BepInEx/config/com.ked.MithrixSkip.cfg`.
